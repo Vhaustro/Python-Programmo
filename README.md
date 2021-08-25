@@ -43,8 +43,8 @@ This project uses:
 #### Running the project
 
 You can:
-    a. clone the project and compile it yourself (Most up to date)
-    b. Apply the project onto your various Virtual Environment and try it out yourself. 
-    c. Make changes to the project (Changes made must align with the TERMS OF USE IN THE LICENSE).
+   - a. clone the project and compile it yourself (Most up to date)
+   - b. Apply the project onto your various Virtual Environment and try it out yourself. 
+   - c. Make changes to the project (Changes made must align with the TERMS OF USE IN THE LICENSE).
 
 
