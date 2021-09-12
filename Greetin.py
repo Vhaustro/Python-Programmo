@@ -15,7 +15,7 @@ print ('Before we proceed I have one question,')
 
 gender = input ('Are you Male or Female?')
 
-if gender == 'Male' :
+if gender == 'Male' or 'Female' :
     print ('Nice Sir' + name)
 else:
     print ('Good Mrs.' + name)
@@ -26,6 +26,9 @@ age = input ('Another enquiry, \nHow old are you?')
 
 if age == '1-18' or '18' :
     print('Oh so you are not eighteen')
+else:
+    print ('Above years of age')
+
 print (age + 'yrs of age')
 
 
