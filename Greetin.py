@@ -24,10 +24,10 @@ assent = 18
 
 age = input ('Another enquiry, \nHow old are you?')
 
-if age == '1-18' or '18' :
-    print('Oh so you are not eighteen')
+if age >= 18:
+    print('You are above age.')
 else:
-    print ('Above years of age')
+    print ('Underage')
 
 print (age + 'yrs of age')
 
